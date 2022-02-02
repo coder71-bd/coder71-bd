@@ -4,11 +4,11 @@
 ![Profile views](https://gpvc.arturio.dev/coder71-bd)
 
 
-- 👨‍💻 All of my projects are available at [coming soon](#)
+- 👨‍💻 My Portfolio [coming soon](https://jubayerhossain.netlify.app/)
 
 - 📫 How to reach me **jubayer.dev71@gmail.com**
 
-- 🌱 I’m currently improving **my previous skills**
+- 🌱 I’m currently working in team project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
