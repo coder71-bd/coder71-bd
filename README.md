@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/coder71-bd)
 
 
-- 👨‍💻 My Portfolio [coming soon](https://jubayerhossain.netlify.app/)
+- 👨‍💻 My Portfolio [visit](https://jubayerhossain.netlify.app/)
 
 - 📫 How to reach me **jubayer.dev71@gmail.com**
 
