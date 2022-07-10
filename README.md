@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jubayer.dev71@gmail.com**
 
-- 🌱 I’m currently learning technologies like docker, typescript, next.js.
+- 🌱 I’m currently building projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
